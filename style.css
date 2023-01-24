@@ -70,7 +70,7 @@ html{
     position: absolute;
     top: 0;
     right: 0;
-    background: url(Images/Landscape.jpeg) no-repeat center center/cover;
+    background: url("Home,About-me/Landscape.jpeg") no-repeat center center/cover;
     height: 900px;
     width: 100%;
     z-index: -1;
@@ -126,8 +126,8 @@ html{
 }
 
 #pic img{
-    width: 575px;
-    height: 400px;
+    width: 485px;
+    height: 600px;
 } 
 
 #intro{
@@ -169,7 +169,7 @@ html{
 }
 
 /* Services Section */
-#STUFF{
+#Stuff{
     display: flex;
     flex-direction: column;
     padding: 20px;
